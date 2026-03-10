@@ -5,7 +5,7 @@ url: "https://seelenschmutz.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "AuDHS Selbsthilfegruppe für Menschen mit ADHS und Autimus"
+  title: "AuDHS Nord"
   avatar:  
   favicon:  
   gravatar: # Email MD5 hash
@@ -13,12 +13,12 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Herzlich Willkommen zur Selbsthilfegruppe AuDHS - für Menschen mit ADHS und Autismus</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Jeden 2. und 4. Montag im Monat um 19.00 Uhr</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   <a href="#">Impressum</a>
 
   # Icons
   rss: false
