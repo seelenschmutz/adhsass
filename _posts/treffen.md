@@ -1,0 +1,10 @@
+---
+layout: post
+title: Treffen
+tags: 
+---
+ Wir treffen uns an jedem zweiten und vierten Montag im Monat in den Räumen (1. Stock) der <a href="https://kibis-kiel.de/">KIBIS Kiel</a> in der Lerchenstraße 22. Einlass ist um 18.50 Uhr, Beginn um 19.00 Uhr.
+
+Die Selbsthilfegruppe richtet sich an Menschen, die sowohl ADHS-Anteile als auch Anteile aus dem Autismusspektrum haben. Die Gruppe dient dem Austausch von unterschiedlichen, alltäglichen Themen, von Hilfsmöglichkeiten und weiteren Erfahrungen. Wir gestalten die Treffen gemeinsam - von Betroffenen für Betroffene.
+
+Wir freuen uns über deinen Besuch. Bitte melde dich vorher per E-Mail bei uns.
